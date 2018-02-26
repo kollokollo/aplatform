@@ -8,7 +8,7 @@ all users.
 
 Please read the white papers included in this git repository.
 
-https://github.com/kollokollo/aplatform/blob/master/autonomous-software.asciidoc (englisch)
+https://github.com/kollokollo/aplatform/blob/master/autonomous-software.asciidoc (english)
 
 https://github.com/kollokollo/aplatform/blob/master/Autonome-Software.asciidoc  (german)
 

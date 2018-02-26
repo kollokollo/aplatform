@@ -1,0 +1,93 @@
+== Wie Internet Software bald völlig autonom wird
+
+Viele große Internetplatformen sind eigentlich nichts anderes, als eine
+Suchmaschine für Verkaufsangebote gepaart mit einer Bank für die
+Zahlungsabwicklung. Manchmal auch nur eine art Suchmaschine, welche von den Nutzern durch Ihre Daten und durch Werbung bezahlt wird.
+
+Technisch gesehen ist so eine Platform ein Stück Software, was kontinuierlich von Programmierern weiterentwickelt wird. Gewinne werden an Aktionäre aushgeschüttet. Werte werden von eine Organisation, einer Firma, gehalten, die Gewinne macht und diese versteuert und ausschüttet.
+
+Dieses heute sehr verbereitete Konzept hat aber Schwachstellen, die es daran hindern, für die Nutzer noch nützlicher (und preisgünstiger) zu werden: 
+
+Das sind einmal die Abhängigkeit von Banken, Zahlungsabwicklern, die mitverdienen wollen. Weiterhin die Notwendigkeit, Daten der Nutzer zu 
+sammeln und zu verkaufen. 
+Schliesslich wollten die Aktionäre ihren Anteil an den Gewinnen haben. 
+Für die Nutzer ist die Benutzung dieser zentralisierten Vermittlungsplatformen also teurer als es eigentlich sein müsste.
+ 
+Dies eröffnet Chancen für Konkurrenzsoftware, sofern Sie diese einige 
+oder alle dieser Nachteile nicht hat.
+
+
+Eine solche alternative erscheint derzeit am Horizont. Im Gegensatz zu den bisherigen, Unternehmensbezogenen Ansätzen, zeichnet sich ein neues Konzept ab, was erstmals technisch möglich ist.
+
+Nämlich ein völlig autonomes, globales, dezentrales, übernationales konstrukt, was allein durch seine Nutzer bzw. Kunden kontrolliert wird. 
+
+Stellen Sie sich mal vor:
+
+Dass dahinter ein Konzern steckt, ist völlig unnötig. 
+Es könnte auch so sein:
+
+Ein Stück Software besitzt ein eigenes Konto, und damit auch Geldmittel, 
+worüber nur die Software selbst verfügen kann. 
+Die Software gehört niemandem. Sie ist nicht lokalisiert, sie kann Sich das Rechenzentrum selbst aussuchen, auf dessen Servern sie läuft. Vielleicht benötigt sie nicht einmal spezialisierte Rechenzentren, sondern läuft dezentral auf allen Knotenrechnern der Benutzer.  Die Software stellt den Nutzern einen Dienst zur Verfügung, wofür diese in Form von Micropayments bezahlen. Von den Einnahmen bezahlt die Software ihren Serverbetreiber, Stromlieferanten etc.
+
+Wenn die Einnahmen die Ausgaben nicht decken, dann macht die Software 
+pleite und verschwindet vom Internet (Weil der Serverbetreiber diese 
+dann entfernt).
+
+Die Software kann u.a. eine WEB-Platform bereitstellen, ähnlich der 
+Platformen der großen Anbieter, welche sich derzeit auf dem Markt befinden, einschließlich einer Suchmaschine, und Zahlungen kann Sie (dank Bitcoin) auch abwickeln, ohne externe Zahlunsdienstleister zu benutzen. 
+Da niemand die Software besitzt, und auch niemand Zugriff auf das Konto hat, können Die Nutzer ihr vertrauen. Denn niemand ist in der Lage, die Software für seine Interessen Zweckzuentfremden. Zudem ist der Quellcode der Software öffentlich einsehbar (open source), so dass jeder überprüfen kann, dass die Software auch das tut, was sie behauptet zu tun.
+
+Damit die Software nicht duch Konkurrenten vom Markt gefegt wird, muss 
+sie sich weiterentwickeln. Hierfür spart Sie Reserven an, die sie dann 
+dafür benutzt, Programmierer zu bezahlen, die sie weiterentwickeln.
+
+Die so entstehenden neuen Versionen werden zusätzlich am Markt 
+gestartet. Wenn sie besser sind, werden Sie mehr Einnahmen generieren 
+und mehr Marktanteile bekommen, wohingegen die früheren Versionen oder 
+ggf. verschlimmbesserte Versionen ihrerselbt an Marktanteilen verlieren 
+und schliesslich sterben. Nur die fitteste und damit beste (in den Augen der Nutzer) Version der Software überlebt und behersscht den Markt. Auf diese weise sehen wir einen Evolution der Software selbst unter den Bedingungen ihres Ökosystems, was der Markt selbst ist.
+
+Die Programmierer entscheiden scheinbar, was die Software macht, welche 
+Entscheidungen sie trifft und wie sie die Einnahmen verwendet. Jedoch üben sie nicht wirklich allein die Kontroll aus, denn  
+das System ist offen für jeden, sich um den Job, die Software 
+weiterzuentwickeln, zu bewerben. Und da der Code völlig öffentlich und 
+transparent ist, werden die Nutzer die Software kontrollieren, und 
+Software-Versionen, die unlautere Features enthält, nicht nutzen. 
+
+Die Vorraussetzung für obige "Utopie" sind eigentlich heute schon 
+gegeben, aber noch in den Kinderschuhen.
+
+Für Zahlungsabwicklungen ohne Banken gibt es Bitcoin und auch ein Konto 
+ohne Zugriff durch Menschen, wäre damit möglich.
+
+Es gibt nichts, was das aufhalten könnte; und was denkbar ist, wird 
+(irgenwann) auch gemacht.
+
+Noch ist das Zukunftsmusik, aber wir sehen schon die ersten Schritte dahin. 
+
+Das Geschäftsmodell der traditionellen großen Onlineplatformen ist 
+wird nicht mehr sehr lange bestand haben. Auch Suchmaschinen werden ihre Marktmacht verlieren, wenn die Nutzer bereit 
+sind und die Möglichkeiten dafür nutzen können, statt mit Verletzung Ihrer Privatspäre, mit Mini-Beträgen (einer virtuellen Währung) zu 
+bezahlen. Dies macht man nur deshalb heute noch nicht, weil es 
+unwirtschaftlich ist, mit den vorhandenen Zahlungsmöglichkeiten Beträge 
+kleiner 1 Cent zu überweisen. (Eigentlich geht das schon ab unter 5 EURO 
+nicht wirklich).
+
+In diesem Dokument sollen die noch zu klärenden Fragestellungen aufgezeigt werden, die Probleme, für die noch technische Lösucngen gesucht werden, aufzuzeigen.
+
+
+Dringende Fragen sind:
+
+* Wie schafft man es, dass Software einen Master-Key fuer ein Bitcoin-Wallet hat, was niemandem bekannt ist, selbst aber open-source sein kann?
+
+* In welchem Verfahren muss ein Wettbewerb um Verbesserungen an der Software organisiert werden? Welcher Programmieren bekommt wann seine Auszahlung?
+
+
+* Wie muessen Zahlungsschnittstellen zu Rechenzentren aussehen?
+
+* Wie organisiert man den Zahlungsfluss innerhalb der SOftware? Die Software darf keine Gewinne machen (denn sie gehoert ja niemandem, und sie kann keine Steuern bezahlen). Muss aber wohl Geldreserven aufbauen, um Liquidität zu haben. Die klassischen Regeln für Unternehmen können hier nicht angewendet werden. Regeln muessen also auf Nutzerkonsens basieren. Beträge können nur ausserhalb versteuert werden (als Einkommen für Programmieren, als Umsatzsteuer für Rechenzentren, Stromandbieter). 
+
+* Aus ökonomischer Sicht wir die Software ein Optimum für Ihre Marktnische darstellen und somit für den Nutzer optimal preiswert sein, und sie wird reguläre Unternehmensbasierte Konkurrenten verdrängen.
+
+
