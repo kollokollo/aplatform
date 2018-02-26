@@ -1,0 +1,69 @@
+== How Internet Software will become fully autonomous 
+
+Until today, an internet platform as the core of a gigantic software company, fullfill certen needs of the public. But looking closer to what this really ist one finds, that such buisiness models are nothing more than a search engine for sales offers coupled with a bank for payment processing.
+
+The core is a piece of software, which is continuously developed by programmers. Profits are distributed to shareholders. But this concepts has disadvantages for the users and weaknesses in the buisiness model, that prevents it from beeing even more useful to users. One is the dependency on banks and payment processor companies. They need to be financed and therefor the service charged to the users has additional costs. Furthermore, the need to collect and sell users' data becomes more and more controversal. After all, the shareholders wanted their share of the profits. And this all has to be payed by all users of the platform. 
+
+This makes such platforms more expensive than necessary.
+ 
+This opens up opportunities for rival software, if they do not have some or all of these disadvantages.
+
+
+Imagine:
+
+There is no need for a corporation behind a software platform. 
+It could also be like this:
+
+A piece of software has its own account, and therefore funds, and only the software itself can spend from this funds.  
+
+The software is not owned by anyone. It is not localized, it can choose the data center itself whose servers it runs. The software provides users with a 
+service for which they pay in the form of micropayments. Of the
+Revenue the software pays its server operator, electrical power, programmers etc.
+
+If the revenue does not cover the expenses, then the software (at least the
+specific instance of it) dies  and disappears from the Internet (because the
+server operator will stop running it).
+
+The software can provide a platform just like the big trading and shopping platforms which do exist today. It can offer a
+Search engine, and it can handle and process payments itself. There is no need for a thir party banking service nor any intermediate at all. 
+Since nobody is the owner of this Software and such nobody has access to the account and the funds, now human party can take over control. Therfor the platform gets maximum trust by the users. In addition, the source code of the software is public, open source, freely available, so that anyone can verify that the software does exactly what it claims to do.
+
+The SOftware needs to compete on the market. Against other autonomous software and angainst traditional, company based platforms. Not to be swept from the market by competitors, it must evolve. To perform this, the software needs to save funds, which it then uses to pay programmers to develop and improve it.
+
+The resulting new versions will be activated in addition. The have to compete  on the market. If they are better, tey will generate more revenue
+and get more market share than the previous versions. If the newer version turns out not to be better, it will finally die out and only the fittest version will dominate the market. So we can see software evolution in real economic environments.
+
+The prerequisite for the above "utopia" are already there today, but still in their infancy.
+
+For payment transactions without banks there is Bitcoin and also an account
+without human access would be possible this way.
+
+The programmers seem to decide what the software does, which (payment) 
+decisions it makes and how it uses the revenue. However
+the system is open to anyone, applying to improve the software in a cometitive game. And since the code is completely public and
+transparent, users will control the software, and finally they 
+will not use software versions that contain unfair features.
+
+There is nothing that could stop it; So we beliefe that it is just a matter of time, when we will see such software models appear. If you want, the global Bitcoin software system is the first one whe have seen so far. Others will follow with different buisiness models.
+
+
+Several issues have to be fixed befor, but the general technique is availabe today. 
+
+They shall be addressed in this document. 
+
+
+=== How to hide the secret master key of a Bitcoin account in an open source software?
+
+=== How to setup rules for improving the software? Under which circumstances does the programmer get payed for its work?
+
+
+
+=== techniques needed:
+
+* The internet
+* Bitcoin (for funds holding and payment ptocessing)
+* git for open source development
+* __add some more__
+
+
+
